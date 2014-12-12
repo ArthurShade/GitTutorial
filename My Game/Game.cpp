@@ -1,7 +1,7 @@
 #include "Game.h"
 
 
-Game::Game(){int i = 0; int a = 3; int b = 1;}
+Game::Game(){}
 
 
 Game::~Game(){}
